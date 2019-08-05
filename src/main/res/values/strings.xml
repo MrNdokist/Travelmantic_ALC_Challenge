@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="delete_menu">DELETE</string>
+</resources>
